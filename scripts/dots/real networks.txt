@@ -1,0 +1,128 @@
+Zeolites : 4061724
+    depth: 5, threshold: 60
+    nodes: 206, edges: 1114
+
+    depth: 5, threshold: full
+    nodes: 28324 edges: 82325
+
+    depth: 5, threshold: 50
+    nodes: 316 edges: 1518
+    
+    depth: 5, threshold: 70
+    nodes: 138 edges: 901
+
+
+
+Semiconductors : 4064521
+    depth: 5, threshold: 125
+    nodes: 185, edges: 586
+    
+    depth: 5, threshold: full
+    nodes: 85111 edges: 258981
+
+
+
+Nonwoven webs : 4340563
+    depth: 5, threshold: 100
+    nodes: 231 edges: 768
+     
+    depth: 5, threshold: full
+    nodes: 39756 edges: 147171
+
+    depth: 5, threshold: 90
+    nodes: 293 edges: 1041
+    
+    depth: 5, threshold: 110
+    nodes: 186 edges: 609
+
+
+
+RSA encryption : 4405829
+    depth: 5, threshold: 400
+    nodes: 159 edges: 739
+    
+    depth: 5, threshold: full
+    nodes: 194171 edges: 1152984
+
+
+
+Stents : 4655771
+    depth: 5, threshold: 350
+    nodes: 238, edges: 1102
+
+    depth: 5, threshold: full
+    nodes: 51855 edges: 735220
+
+    depth: 5, threshold: 115
+    nodes: 258 edges: 1277
+
+    depth: 5, threshold: 135
+    nodes: 218 edges: 1023
+
+
+
+PCR : 4683202
+    depth: 5, threshold: 150
+    nodes: 263, edges: 824
+    
+    depth: 5, threshold: full
+    nodes: 28324 edges: 82325   
+
+    depth: 5, threshold: 140
+    nodes: 299 edges: 1006
+    
+    depth: 5, threshold: 160
+    nodes: 229 edges: 670
+
+
+
+Bubblejet: 4723129
+    depth: 5, threshold: 75
+    nodes: 247 edges: 489
+    
+    depth: 5, threshold: full
+    nodes: 85270 edges: 236811
+
+    depth: 5, threshold: 65
+    nodes: 328 edges: 662
+
+    depth: 5, threshold: 85
+    nodes: 94 edges: 185
+
+
+
+Cell phone system : 5103459
+    depth: 5, threshold: 225
+    nodes: 246 edges: 719    
+    
+    depth: 5, threshold: full
+    nodes: 161555 edges: 720777
+
+
+
+DNA microarrays: 5143854
+    depth: 5, threshold: 175
+    nodes: 202 edges: 620
+    
+    depth: 5, threshold: full
+    nodes: 43010 edges: 182149
+
+
+
+Web browser : 5572643
+    depth: 5, threshold: 250
+    nodes: 345 edges: 738
+    
+    depth: 5, threshold: full
+    nodes: 163238 edges: 967976
+
+
+
+
+
+
+Zip-lock closure : 7029178
+
+
+
+
